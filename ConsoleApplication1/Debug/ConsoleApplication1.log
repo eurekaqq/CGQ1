@@ -1,2 +1,6 @@
 ﻿  main.cpp
-  ConsoleApplication1.vcxproj -> c:\users\skyqq\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\cgtest.exe
+c:\users\skyqq\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(45): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\skyqq\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(48): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\skyqq\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(51): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\skyqq\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(54): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  ConsoleApplication1.vcxproj -> C:\Users\skyqq\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\cgtest.exe
